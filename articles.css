@@ -1,24 +1,48 @@
-one {
-	background-color: #bc1379;
+body {
+	background-color: #slategrey;
+}
+
+.one {
+	background-color: #A7CAB1;
+	font-family: roboto;
+	font-size: 12px;
+	color: #171717;
+	line-height: 1em;
+
 
 }
 
 .two {
-	background-color: #bc1369;
-
+	background-color: #88B7B5;
+	font-family: Fira Sans Extra Condensed;
+	font-size: 14px;
+	color: #3D3D3D;
+	line-height: 1.1em;
 }
 
 .three {
-	background-color: #bc1359;
+	background-color: #847996;
+	font-family: Source Sans Pro;
+	font-size: 16px;
+	color: #B8B8B8;
+	line-height: 1.2em;
 
 }
 
 .four {
-	background-color: #bc1349;
+	background-color: #310A31;
+	font-family: Slabo 27px;
+	font-size: 18px;
+	color: #D9D9D9;
+	line-height: 1.3em;
 
 }
 
 .five {
-	background-color: #bc1339
+	background-color: #0E1428;
+	font-family: Oswald;
+	font-size: 20px;
+	color: #F2F2F2;
+	line-height: 1.4em;
 
 }
