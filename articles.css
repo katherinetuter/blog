@@ -1,6 +1,10 @@
+/*body styling*/
+
 body {
 	background-color: #7D7D7D;
 }
+
+/*articles styling*/
 
 .one {
 	background-color: #A7CAB1;
@@ -10,8 +14,8 @@ body {
 	line-height: 1em;
 	padding: 2px;
 	margin: 5px;
-
-
+	border: 1px solid #FFFFFF;
+	border-radius: 10%;
 }
 
 .two {
@@ -22,6 +26,8 @@ body {
 	line-height: 1.1em;
 	padding: 6px;
 	margin: 5px;
+	border: 3px dotted #FFFFFF
+	border-radius: 30%;
 }
 
 .three {
@@ -32,7 +38,8 @@ body {
 	line-height: 1.2em;
 	padding: 10px;
 	margin: 5px;
-
+	border: 5px dashed #FFFFFF
+	border-radius: 50%;
 }
 
 .four {
@@ -43,7 +50,8 @@ body {
 	line-height: 1.3em;
 	padding: 14px;
 	margin: 5px;
-
+	border: 3px dotted #FFFFFF
+	border-radius: 70%;
 }
 
 .five {
@@ -54,5 +62,6 @@ body {
 	line-height: 1.4em;
 	padding: 18px;
 	margin: 5px;
-
+	border: 1px solid #FFFFFF
+	border-radius: 90%;
 }
